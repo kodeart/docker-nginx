@@ -1,3 +1,5 @@
+[![](https://images.microbadger.com/badges/version/mihailbinev/nginx.svg)](https://microbadger.com/images/mihailbinev/nginx "Get your own version badge on microbadger.com")
+
 mihailbinev/nginx
 =================
 
